@@ -7,7 +7,7 @@ A simple and responsive **Random Password Generator** built using **HTML, CSS, a
 ## 🚀 Live Demo
 
 🔗 **Live Website:**  
-https://your-live-link-here.vercel.app/
+https://random-password-generator-indol-eight.vercel.app/
 
 ---
 
@@ -97,9 +97,7 @@ The remaining characters are selected randomly from all available character sets
 
 Aspiring MERN Stack Developer
 
-- 🌐 Portfolio: https://your-portfolio-link.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🐙 GitHub: https://github.com/your-username
+- 🐙 GitHub: https://github.com/bs-bhaskar/random-password-generator.git
 
 ---
 
